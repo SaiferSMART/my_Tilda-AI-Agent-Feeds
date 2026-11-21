@@ -130,3 +130,18 @@ graph TD
   <i>Создано для того, чтобы автоматизировать рутину и вернуть время на творчество!</i><br>
   💬 <b>Связь с разработчиком и обновления:</b> <a href="https://t.me/maya_pro">@maya_pro</a>
 </div>
+
+<!-- SAIFER_REPO_PASSPORT_BEGIN: #435 -->
+## Паспорт
+
+- **Что это:** Tilda AI Agent Feeds Пишет SEO-статьи в стиле Senior Editor, собирает ключи через Вордстат и рисует «Jaw-Dropping» обложки. Ваш ИИ-редактор для блога на Тильде..
+- **Статус:** не знаю (работает / пауза / заморожено ❄️ / брошено — нет runtime-проверки).
+- **Где работает:** не знаю (сервер/ПК/сайт/облако не подтверждены).
+- **Как запустить или открыть:** [репозиторий](https://github.com/SaiferSMART/my_Tilda-AI-Agent-Feeds); запуск приложения — не знаю (ищите инструкции в README).
+- **Связанные открытые PR:** [актуальный список](https://github.com/SaiferSMART/my_Tilda-AI-Agent-Feeds/pulls?q=is%3Apr+is%3Aopen).
+- **Связанные открытые Issue:** [актуальный список](https://github.com/SaiferSMART/my_Tilda-AI-Agent-Feeds/issues?q=is%3Aissue+is%3Aopen).
+- **Дата последнего изменения GitHub:** 2026-02-25T22:16:31Z (поле `pushed_at`, любая ветка; не равно проверке эксплуатации).
+- **Кто ведёт:** не знаю; владелец репозитория GitHub — `SaiferSMART`.
+- **Вопрос к владелице:** подтвердить статус, площадку, точку входа и фактического ведущего.
+- **Задание:** [Issue №435](https://github.com/SaiferSMART/saifer-ai-ops/issues/435).
+<!-- SAIFER_REPO_PASSPORT_END -->
